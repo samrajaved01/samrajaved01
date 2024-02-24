@@ -1,9 +1,8 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Eo8kw0PWPpnZ1m-NbTU66w.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Samra Javed</h1>
 <h3 align="center">A Passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqIyyZLhLM8u8jFWrIFuwJlWCFtx8NSFhvsg&usqp=CAU”>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_1258-103673.jpg?size=338&ext=jpg&ga=GA1.1.1700460183.1708560000&semt=ais”>
 
-<p align="left"> <img src="https://media.istockphoto.com/id/1077169182/photo/lens-flare-and-bokeh-black-background.jpg?s=1024x1024&w=is&k=20&c=7VTf4t91PxwAeb006-wMNNwkWPpZ4I7-2WIhDF3ssJU=" /> </p>
 
 - 💬 Ask me about **Tablaeu,Excel,SQL,ML,DL**
 
