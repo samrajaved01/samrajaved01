@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Eo8kw0PWPpnZ1m-NbTU66w.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Samra Javed</h1>
 <h3 align="center">A Passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.ibm.com/blog/wp-content/uploads/2021/06/solen-feyissa-GQT8S43B-vE-unsplash-1200x630.jpg”>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqIyyZLhLM8u8jFWrIFuwJlWCFtx8NSFhvsg&usqp=CAU”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrajaved01&label=Profile%20views&color=0e75b6&style=flat" alt="samrajaved01" /> </p>
 
