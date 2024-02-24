@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqIyyZLhLM8u8jFWrIFuwJlWCFtx8NSFhvsg&usqp=CAU”>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samrajaved01&label=Profile%20views&color=0e75b6&style=flat" alt="samrajaved01" /> </p>
+<p align="left"> <img src="https://media.istockphoto.com/id/1077169182/photo/lens-flare-and-bokeh-black-background.jpg?s=1024x1024&w=is&k=20&c=7VTf4t91PxwAeb006-wMNNwkWPpZ4I7-2WIhDF3ssJU=" /> </p>
 
 - 💬 Ask me about **Tablaeu,Excel,SQL,ML,DL**
 
